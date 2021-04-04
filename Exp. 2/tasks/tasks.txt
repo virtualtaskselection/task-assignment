@@ -1,0 +1,6 @@
+
+1. qualification test.pdf - the qualification test
+2. collaborative-only.html - the template for the HIT in AMT used for running the collaborative tasks only scenario
+3. interleaved.html - the template for the HIT in AMT used for running the interleaved 
+scenario
+4. post test.pdf - the post test
